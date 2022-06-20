@@ -38,6 +38,10 @@ function calculateprofitandloss(intail,quantity,current){
 
 
     }
+    else{
+        outputdiv.innerText=`NO Pain No GAIN`;
+        
+    }
 }
 
 // calculateprofitandloss(20,10,100);
